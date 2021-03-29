@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Biodata</string>
+    <string name="image_desc">Profile Image</string>
+    <string name="title_name">Name</string>
+    <string name="title_identity_number">NIM</string>
+    <string name="title_student_class">Class</string>
+    <string name="title_sex">Sex</string>
+    <string name="title_date_of_birth">Date of Birth</string>
+    <string name="title_address">Address</string>
+    <string name="title_blood_group">Blood Group</string>
+    <string name="title_favorite_food">Favorite Food</string>
+    <string name="title_favorite_drink">Favorite Drink</string>
+    <string name="title_hobby">Hobby</string>
+    <string name="title_favorite_song">Favorite Song</string>
+    <string name="title_favorite_film">Favorite Film</string>
+    <string name="title_dream_job">Dream Job</string>
+
+    <string name="val_name">Agung Sepruloh</string>
+    <string name="val_identity_number">10118902</string>
+    <string name="val_student_class">IF-11</string>
+    <string name="val_sex">Male</string>
+    <string name="val_date_of_birth">1996–09–27</string>
+    <string name="val_address">27 Kolonel Masturi Street</string>
+    <string name="val_blood_group">A</string>
+    <string name="val_favorite_food">Chocolate</string>
+    <string name="val_favorite_drink">Plain Water</string>
+    <string name="val_hobby">Laying Down</string>
+    <string name="val_favorite_song">Bad Guy by Billie Eilish</string>
+    <string name="val_favorite_film">Killing Eve</string>
+    <string name="val_dream_job">Data Scientist</string>
 </resources>
